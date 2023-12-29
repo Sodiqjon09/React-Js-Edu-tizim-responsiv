@@ -1,0 +1,50 @@
+#rightNow {
+    background-color: #F4F9FF;
+    border-radius: 75px;
+    padding: 95px;
+    -webkit-box-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    width: 1400px;
+    height: 450px;
+    margin: 150px auto;
+}
+
+#rightText h1{
+    color: #232d4b;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 54px
+}
+#rightText p{
+    font-size: 18px;
+    line-height: 160%;
+    color: rgb(117, 117, 117);
+    margin-top: 12px;   
+}
+#rightblue {
+    width: 570px;
+    height: 350px;
+    background-color: rgb(22, 122, 207);
+    border-radius: 110px 75px 75px 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#rightwhite {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.15) 10px 20px 50px;
+    border-radius: 30px;
+    border: 1px solid rgb(241, 241, 241);
+    padding: 0px 40px;
+    width: 350px;
+    margin:  auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

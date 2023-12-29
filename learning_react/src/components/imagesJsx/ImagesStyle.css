@@ -1,0 +1,30 @@
+#MarginTop {
+    margin-top: 150px;
+}
+#ImageJSx {
+    display: flex; 
+    justify-content: space-around; 
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0px 10px;
+    gap: 10px;
+}
+#imgs img {
+    width: 200px;
+    margin-top: 50px;
+}
+#imagetext {
+    text-align: center;
+    margin: 0 auto;
+}
+#imageText h1 {
+    color: #232d4b;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 54px;
+}
+#imageText p {
+    font-size: 18px;
+    line-height: 160%;
+    color: rgb(117, 117, 117);
+}

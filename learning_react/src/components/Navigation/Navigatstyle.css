@@ -1,0 +1,40 @@
+#Navigation {
+    width: 100%;
+    margin-top: 110px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#NavigaText #texts h1 {
+    font-size: 50px;
+    line-height: 52px;
+    color: rgb(35, 45, 75);
+    width: 600px;
+    line-height: 70px;
+}
+#NavigaText #texts p {
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.8);
+    margin: 24px 0px;
+}
+#Play {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+#Play img {
+    width: 170px;
+}
+#NavigaImg {
+    background-color: #185AD6;
+    /* background-color: #167ACF; */
+    width: 550px;
+    height: 550px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#NavigaImg img {
+    height: 450px;
+}

@@ -1,0 +1,52 @@
+#Custom {
+    margin-top: 150px;
+}
+#CustomMijozlarText h1{
+    color: #232d4b;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 54px;
+    text-align: center;
+    margin: 0 auto;
+}
+#CustomImg {
+    display: flex;
+    justify-content: space-around;
+}
+#item {
+    margin-top: 100px;
+}
+#CustomImg img {
+    width: 380px;
+    height: 380px;
+    border-radius: 100% 0 100% 100%;
+}
+#CustomText h1 {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 33px;
+    line-height: 160%;
+}
+#CustomText p {
+    color: rgb(86, 86, 86);
+    width: 530px;
+    flex-wrap: wrap;
+}
+#itemFlex {
+    display: flex;
+    justify-content: space-around;
+}
+#CustomFlex {
+    display: flex;
+    align-items: center;
+    gap: 70px;
+}
+#CustomImage{
+    display: flex;
+    gap: 15px;
+}
+#CustomImage img {
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+}

@@ -1,0 +1,45 @@
+#OurApplications {
+  margin-top: 150px;
+}
+#OurAppText {
+  margin: auto;
+  text-align: center;
+}
+#Right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 150px;
+}
+#RightImg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#OurAppText h1 {
+  color: #232d4b;
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 54px;
+}
+#RightText h1,
+#RightText p {
+  width: 480px;
+}
+#RightText p {
+  font-size: 19px;
+  line-height: 27px;
+  margin-top: 10px;
+}
+#RightImg {
+  background-color: #d0e4f5;
+  width: 350px;
+  height: 350px;
+  border-radius: 100%;
+}
+#RightImg:nth-child(2) {
+    background-color: #B3FFA2;
+}
+#Right {
+    margin-top: 300px;
+}

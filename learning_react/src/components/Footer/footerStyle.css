@@ -1,0 +1,43 @@
+footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  margin-top: 150px;
+  padding: 56px 0px;
+  background-color: rgb(22, 122, 207);
+}
+#footerText {
+  display: flex;
+}
+#footerLogo img {
+  color: #fff;
+}
+#footerText p {
+  margin-left: 12px;
+  font-weight: 500;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  line-height: 26px;
+}
+#footerText:nth-child(1) {
+  width: 300px;
+  line-height: 26px;
+}
+#flexContainer p {
+  font-weight: 500;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  margin-bottom: 12px;
+}
+#fooutureLogo {
+  border: 1px solid red;
+  display: flex;
+}
+#flexN1 {
+  display: flex;
+  gap: 20px;
+}
+img {
+  cursor: pointer;
+}
