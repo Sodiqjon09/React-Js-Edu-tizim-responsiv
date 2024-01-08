@@ -145,7 +145,6 @@
     font-size: 13px;
   }
 }
-
 @media (max-width: 813px) {
   #custom {
     gap: 20px;
@@ -309,9 +308,6 @@
   }
   #OurAppText h1 {
     width: 100%;
-  }
-  #LittleText {
-    border: 1px solid red;
   }
 }
 @media (max-width: 424px) {
